@@ -1,5 +1,18 @@
-### Hi there 👋
+# Hi there 👋
+On this profile I'd like to show you some projects I worked on in the past.
+Please have a look and feel free to get in touch, if interested! You can reach me on LinkedIn (see profile below).
 
+# Main Projects
+- 🏠 [Analysis and Predictions on NSW Housing Data](https://github.com/felix-rosenberger/NSW-House-Price-Prediction.git)
+- 📞 [Customer Churn Prediction on Telco Data](https://github.com/felix-rosenberger/Data-Science-Portfolio/blob/main/README.md)
+- 🏈 [Analysis of the Efficacy of Spors Voucher Programs in Australia](https://github.com/felix-rosenberger/Data-Science-Portfolio/blob/main/README.md)
+- 🚴 [Analysis of Cycling Data](https://github.com/felix-rosenberger/Data-Science-Portfolio/blob/main/README.md)
+
+# I am currently working on ...
+- 💾 Big Data with MongoDB and Hadoop
+
+# How to reach me
+I am on LinkedIn. Reach out by clicking below [here](https://www.linkedin.com/in/felix-rosenberger-1522761b3/).
 <!--
 **felix-rosenberger/felix-rosenberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
