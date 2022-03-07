@@ -5,7 +5,7 @@ Please have a look and feel free to get in touch, if interested! You can reach m
 # Main Projects
 - 🏠 [Analysis and Predictions on NSW Housing Data](https://github.com/felix-rosenberger/NSW-House-Price-Prediction.git)
 - 📞 [Customer Churn Prediction on Telco Data](https://github.com/felix-rosenberger/Data-Science-Portfolio/blob/main/README.md)
-- 🏈 [Analysis of the Efficacy of Spors Voucher Programs in Australia](https://github.com/felix-rosenberger/Data-Science-Portfolio/blob/main/README.md)
+- 🏈 [Analysis of the Efficacy of Sports Voucher Programs in Australia](https://github.com/felix-rosenberger/Data-Science-Portfolio/blob/main/README.md)
 - 🚴 [Analysis of Cycling Data](https://github.com/felix-rosenberger/Data-Science-Portfolio/blob/main/README.md)
 
 # I am currently working on ...
