@@ -9,7 +9,7 @@ Please have a look and feel free to get in touch, if interested! You can reach m
 - 🚴 [Analysis of Cycling Data](https://github.com/felix-rosenberger/Data-Science-Portfolio/blob/main/README.md)
 
 # I am currently working on ...
-- 💾 Big Data with MongoDB and Hadoop
+- 💾 Big Data Tweet Analysis with MongoDB and Hadoop
 
 # How to reach me
 I am on LinkedIn. Reach out by clicking [here](https://www.linkedin.com/in/felix-rosenberger-1522761b3/).
