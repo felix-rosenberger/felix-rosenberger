@@ -7,9 +7,7 @@ Please have a look and feel free to get in touch, if interested! You can reach m
 - 📞 [Customer Churn Prediction on Telco Data](https://github.com/felix-rosenberger/Data-Science-Portfolio/blob/main/README.md)
 - 🏈 [Analysis of the Efficacy of Sports Voucher Programs in Australia](https://github.com/felix-rosenberger/Data-Science-Portfolio/blob/main/README.md)
 - 🚴 [Analysis of Cycling Data](https://github.com/felix-rosenberger/Data-Science-Portfolio/blob/main/README.md)
-
-# I am currently working on ...
-- 💾 Big Data Tweet Analysis with MongoDB and Hadoop
+- 💾 [Big Data Tweet Analysis with MongoDB and Hadoop](https://github.com/felix-rosenberger/Tweet-Text-NLP-with-MapReduce.git)
 
 # How to reach me
 I am on LinkedIn. Reach out by clicking [here](https://www.linkedin.com/in/felix-rosenberger-1522761b3/).
