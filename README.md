@@ -10,8 +10,6 @@ Please have a look and feel free to get in touch, if interested! You can reach m
 - 💾 [Big Data Tweet Analysis with MongoDB and Hadoop](https://github.com/felix-rosenberger/Tweet-Text-NLP-with-MapReduce.git)
 - 💾 [Efficient Big Data Querying with R-Tree](https://github.com/felix-rosenberger/R-Tree)
 
-# How to reach me
-I am on LinkedIn. Reach out by clicking [here](https://www.linkedin.com/in/felix-rosenberger-1522761b3/).
 <!--
 **felix-rosenberger/felix-rosenberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
