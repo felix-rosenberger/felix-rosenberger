@@ -3,7 +3,7 @@ On this profile I'd like to show you some projects I worked on in the past.
 Please have a look and feel free to get in touch, if interested! You can reach me on [LinkedIn](https://www.linkedin.com/in/felix-rosenberger-1522761b3/).
 
 # My Projects
-## 📈 Predictive Analytics
+## 📈 Data Science
 #### These projects involved a lot of EDA, data visualisation, and the application of ML algorithms to generate business insights for decision making
 - [Predictive Analytics on NSW Housing Data](https://github.com/felix-rosenberger/NSW-House-Price-Prediction.git)
 - [Predictive Analytics for Customer Churn on Telco Data](https://github.com/felix-rosenberger/Data-Science-Portfolio/blob/main/README.md)
@@ -14,7 +14,9 @@ Please have a look and feel free to get in touch, if interested! You can reach m
   Building an R-Tree index from scratch using Python to then efficiently query a big data set where the performance is compared to a naive query approach.
 - [Tweet Analysis using Python and Neo4j (GraphDB)](https://github.com/felix-rosenberger/Assignment-2-Python-and-GraphDB) \
   Building a graph data model using Neo4j which is leveraged to query twitter data.
-## 👨‍💻 Data Analysis
+## ⚙️ Data Engineering
+- Building an [end-to-end data analytics pipeline](https://github.com/felix-rosenberger/Data-Analytics-Pipeline) on the Google Cloud Platform for SQL queries using BigQuery and Apache Airflow for scheduling.
+## 👨‍💻 Data Wrangling
 - [Analysis of the Efficacy of Sports Voucher Programs in Australia](https://github.com/felix-rosenberger/Data-Science-Portfolio/blob/main/README.md)
 - [Analysis of Cycling Data](https://github.com/felix-rosenberger/Data-Science-Portfolio/blob/main/README.md)
 
