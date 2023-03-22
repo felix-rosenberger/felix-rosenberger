@@ -10,7 +10,7 @@ Please have a look and feel free to get in touch, if interested! You can reach m
 - [Predictive Analytics for Customer Churn on Telco Data](https://github.com/felix-rosenberger/Data-Science-Portfolio/blob/main/README.md)
   - Feature transformation and selection based on permutation importance and multicollinearity analysis
   - Achieved model sensitivity of approximately 85%, i.e., 85% of actual churners correctly identified 
-- [Building a Binary Classifier from Scratch](https://github.com/felix-rosenberger/binary-classifier)
+- [Building a Binary Classifier using First Principles](https://github.com/felix-rosenberger/binary-classifier)
   - Implementation of a binary classifier using logistic regression, a cross-entropy loss function, and gradient descent as a learning algorithm
 
 ## 💾 Big Data
