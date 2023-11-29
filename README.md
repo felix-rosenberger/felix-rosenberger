@@ -3,6 +3,9 @@ On this profile I'd like to show you some projects I worked on in the past.
 Please have a look and feel free to get in touch, if interested! You can reach me on [LinkedIn](https://www.linkedin.com/in/felix-rosenberger-1522761b3/).
 
 ## 📈 Data Science / Machine Learning
+- [Facial Emotion Classification: Conventional ML vs. Deep Learning](https://github.com/felix-rosenberger/image-classification/tree/main)
+  - Extraction of feature descriptors
+  - Exploration of various ML/DL approaches and techniques
 - [Predictive Analytics on NSW Housing Data](https://github.com/felix-rosenberger/NSW-House-Price-Prediction.git)
   - Extensive data cleaning, feature transformation, and analysis of variable relationships
   - Use of different supervised and unsupervised ML algorithms
