@@ -26,7 +26,8 @@ Please have a look and feel free to get in touch, if interested! You can reach m
   
 ## ⚙️ Data Engineering
 - Building an [end-to-end data analytics pipeline](https://github.com/felix-rosenberger/Data-Analytics-Pipeline) on the Google Cloud Platform for SQL queries using BigQuery and Apache Airflow for scheduling.
-## 👨‍💻 Data Wrangling
+
+## 👨‍💻 Data Analysis
 - [Analysis of the Efficacy of Sports Voucher Programs in Australia](https://github.com/felix-rosenberger/Data-Science-Portfolio/blob/main/README.md)
 - [Analysis of Cycling Data](https://github.com/felix-rosenberger/Data-Science-Portfolio/blob/main/README.md)
 
