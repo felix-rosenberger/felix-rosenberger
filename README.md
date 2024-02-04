@@ -31,13 +31,16 @@ Please have a look and feel free to get in touch, if interested! You can reach m
 ## 💾 Big Data
 - [Big Data Tweet Analysis with MongoDB and Hadoop](https://github.com/felix-rosenberger/Tweet-Text-NLP-with-MapReduce.git) \
   Using Python to connect to a MongoDB instance to extract keywords from tweets, write them back to the DB, and apply MapReduce for counting applications and the MergeSort algorithm.
+
 - [Efficient Big Data Querying with R-Tree](https://github.com/felix-rosenberger/R-Tree) \
   Building an R-Tree index from scratch using Python to then efficiently query a big data set where the performance is compared to a naive query approach.
+
 - [Tweet Analysis using Python and Neo4j (GraphDB)](https://github.com/felix-rosenberger/Assignment-2-Python-and-GraphDB) \
   Building a graph data model using Neo4j which is leveraged to query twitter data.
 
 ## 👨‍💻 Data Analysis
 - [Analysis of the Efficacy of Sports Voucher Programs in Australia](https://github.com/felix-rosenberger/Data-Science-Portfolio/blob/main/Portfolio%202.ipynb)
+
 - [Analysis of Cycling Data](https://github.com/felix-rosenberger/Data-Science-Portfolio/blob/main/Portfolio%201.ipynb)
 
 
