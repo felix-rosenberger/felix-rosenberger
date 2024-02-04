@@ -1,5 +1,5 @@
 # Hi there 👋
-On this profile I'd like to showcase my recent analytics projects.
+On this profile I'd like to showcase my analytics projects.
 Please have a look and feel free to get in touch, you can reach me on [LinkedIn](https://www.linkedin.com/in/felix-rosenberger-1522761b3/).
 
 ## 📈 Data Science / Machine Learning
