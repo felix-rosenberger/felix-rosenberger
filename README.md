@@ -1,18 +1,27 @@
 # Hi there 👋
-On this profile I'd like to show you some projects I worked on in the past.
+On this profile I'd like to showcase my recent analytics projects.
 Please have a look and feel free to get in touch, if interested! You can reach me on [LinkedIn](https://www.linkedin.com/in/felix-rosenberger-1522761b3/).
 
 ## 📈 Data Science / Machine Learning
 - [Facial Emotion Classification: Conventional ML vs. Deep Learning](https://github.com/felix-rosenberger/image-classification/tree/main)
   - Extraction of feature descriptors
   - Exploration of various ML/DL approaches and techniques
+  - Error analysis of deep ML models to achieve model improvements
+
+- [Airbnb Listings Price Predictions](https://github.com/felix-rosenberger/airbnb-price-prediction)
+  - EDA & categorical data encoding
+  - Feature selection & engineering
+  - Model selection, tuning, and evaluation
+ 
 - [Predictive Analytics on NSW Housing Data](https://github.com/felix-rosenberger/NSW-House-Price-Prediction.git)
   - Extensive data cleaning, feature transformation, and analysis of variable relationships
   - Use of different supervised and unsupervised ML algorithms
   - House price predictions and identification of suburbs with high return potential
+
 - [Predictive Analytics for Customer Churn on Telco Data](https://github.com/felix-rosenberger/Data-Science-Portfolio/blob/main/README.md)
   - Feature transformation and selection based on permutation importance and multicollinearity analysis
-  - Achieved model sensitivity of approximately 85%, i.e., 85% of actual churners correctly identified 
+  - Achieved model sensitivity of approximately 85%, i.e., 85% of actual churners correctly identified
+
 - [Building a Binary Classifier using First Principles](https://github.com/felix-rosenberger/binary-classifier)
   - Implementation of a binary classifier using logistic regression, a cross-entropy loss function, and gradient descent as a learning algorithm
 
