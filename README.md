@@ -31,7 +31,9 @@ Please have a look and feel free to get in touch, you can reach me on [LinkedIn]
   - Implementation of a binary classifier using logistic regression, a cross-entropy loss function, and gradient descent as a learning algorithm
 
 ## ⚙️ Data Engineering
-- Building an [end-to-end data analytics pipeline](https://github.com/felix-rosenberger/Data-Analytics-Pipeline) on the Google Cloud Platform for SQL queries using BigQuery and Apache Airflow for scheduling.
+- [End-to-End Data Analytics Pipeline](https://github.com/felix-rosenberger/Data-Analytics-Pipeline)
+  - Query e-commerce data on the Google Cloud Platform using BigQuery
+  - Schedule queries using Apache Airflow
 
 ## 💾 Big Data
 - [Big Data Tweet Analysis with MongoDB and Hadoop](https://github.com/felix-rosenberger/Tweet-Text-NLP-with-MapReduce.git) \
