@@ -9,9 +9,14 @@ Please have a look and feel free to get in touch, you can reach me on [LinkedIn]
   - Error analysis of deep ML models to achieve model improvements
 
 - [Airbnb Listings Price Predictions](https://github.com/felix-rosenberger/airbnb-price-prediction)
-  - EDA & categorical data encoding
+  - Explorative Data Analysis & categorical data encoding
   - Feature selection & engineering
   - Model selection, tuning, and evaluation
+ 
+- [FMCG Customer Segmentation](https://github.com/felix-rosenberger/customer-segmentation/blob/main/README.md)
+  - Explorative Data Analysis
+  - Application of KMeans and Agglomerative Clustering
+  - Investigation of customer characteristics per cluster and derivation of business recommendations
  
 - [Predictive Analytics on NSW Housing Data](https://github.com/felix-rosenberger/NSW-House-Price-Prediction.git)
   - Extensive data cleaning, feature transformation, and analysis of variable relationships
