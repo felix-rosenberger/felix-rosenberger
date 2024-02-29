@@ -23,7 +23,7 @@ Please have a look and feel free to get in touch, you can reach me on [LinkedIn]
   - Use of different supervised and unsupervised ML algorithms
   - House price predictions and identification of suburbs with high return potential
 
-- [Predictive Analytics for Customer Churn on Telco Data](https://github.com/felix-rosenberger/Data-Science-Portfolio/blob/main/README.md)
+- [Predictive Analytics for Customer Churn on Telco Data](https://github.com/felix-rosenberger/Data-Science-Portfolio/blob/main/Portfolio%203.ipynb)
   - Feature transformation and selection based on permutation importance and multicollinearity analysis
   - Achieved model sensitivity of approximately 85%, i.e., 85% of actual churners correctly identified
 
