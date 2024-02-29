@@ -6,7 +6,7 @@ Please have a look and feel free to get in touch, you can reach me on [LinkedIn]
 - [Facial Emotion Classification: Conventional ML vs. Deep Learning](https://github.com/felix-rosenberger/image-classification/tree/main)
   - Extraction of feature descriptors
   - Exploration of various ML/DL approaches and techniques
-  - Error analysis of deep ML models to achieve model improvements
+  - Error analysis of deep learning models to achieve model improvements
 
 - [Airbnb Listings Price Predictions](https://github.com/felix-rosenberger/airbnb-price-prediction)
   - Explorative Data Analysis & categorical data encoding
