@@ -34,6 +34,7 @@ Please have a look and feel free to get in touch on [LinkedIn](https://www.linke
 - [End-to-End Data Analytics Pipeline](https://github.com/felix-rosenberger/Data-Analytics-Pipeline)
   - Query e-commerce data on the Google Cloud Platform using BigQuery
   - Schedule queries using Apache Airflow
+  - Visualise query results in Google Data Studio
 
 ## 💾 Big Data
 - [Big Data Tweet Analysis with MongoDB and Hadoop](https://github.com/felix-rosenberger/Tweet-Text-NLP-with-MapReduce.git) \
