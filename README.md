@@ -1,6 +1,6 @@
 # Hi there 👋
 On this profile I'd like to showcase my analytics projects.
-Please have a look and feel free to get in touch, you can reach me on [LinkedIn](https://www.linkedin.com/in/felix-rosenberger-1522761b3/).
+Please have a look and feel free to get in touch on [LinkedIn](https://www.linkedin.com/in/felix-rosenberger-1522761b3/).
 
 ## 📈 Data Science / Machine Learning
 - [Facial Emotion Classification: Conventional ML vs. Deep Learning](https://github.com/felix-rosenberger/image-classification/tree/main)
